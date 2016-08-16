@@ -1,2 +1,3 @@
 # OkHttpUtils
 Okhttp封装工具类
+在鸿洋的OkhttpUtils基础上，增加了delete和put请求方式，添加了设置okhttp缓存的方式。
